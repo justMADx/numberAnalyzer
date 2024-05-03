@@ -1,0 +1,15 @@
+D:\GitHub\numberAnalyzer\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.exe
+D:\GitHub\numberAnalyzer\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.deps.json
+D:\GitHub\numberAnalyzer\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.runtimeconfig.json
+D:\GitHub\numberAnalyzer\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.dll
+D:\GitHub\numberAnalyzer\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.pdb
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.csproj.AssemblyReference.cache
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.AssemblyInfoInputs.cache
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.AssemblyInfo.cs
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.csproj.CoreCompileInputs.cache
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.dll
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\refint\numberAnalyzer.dll
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.pdb
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.genruntimeconfig.cache
+D:\GitHub\numberAnalyzer\numberAnalyzer\obj\Debug\net6.0\ref\numberAnalyzer.dll
